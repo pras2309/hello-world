@@ -6,7 +6,7 @@ read more from http://rivsen.github.io/post/how-to-publish-package-to-packagist-
 ## Usage ##
 
 ```bash
-$ composer require rivsen/hello-world
+$ composer require pras2309/hello-world
 $ touch test.php
 ```
 
